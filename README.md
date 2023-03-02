@@ -1,2 +1,2 @@
 # SmartClinicWebApi
-Solução piloto projetada para facilitar o trabalho de consultórios médicos independentes. ex: psiquiatras independentes com consultório próprio
+Solução piloto projetada para facilitar o trabalho de consultórios médicos independentes. ex: psiquiatras/psicólogos independentes com consultório próprio
